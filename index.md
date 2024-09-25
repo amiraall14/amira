@@ -1,12 +1,9 @@
-# Title
+# amira's blog
 
-## Subtitle
+- [home](#home)
+- [about](#about)
+- [contact](#contact)
+  
+welcome to the  **my blog**.
 
-### Trois hashtag
-
-This is a list:
-* one
-* two
-* three
-
-amira 
+![Homepage Banner](slides/pic2.jpg "Homepage Banner")
