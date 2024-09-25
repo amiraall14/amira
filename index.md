@@ -6,4 +6,4 @@
   
 welcome to the  **my blog**.
 
-![Homepage Banner](slides/pic2.jpg "Homepage Banner")
+![Homepage Banner](slides/pic4.png "Homepage Banner")
