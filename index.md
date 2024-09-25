@@ -1,4 +1,4 @@
-# amira's blog
+# 💌 amira's blog 💌
 
 - [home](#home)
 - [about](#about)
