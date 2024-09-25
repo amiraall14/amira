@@ -11,7 +11,7 @@
 
 Welcome to the  **my blog**.
 
-![Homepage Banner](https://via.placeholder.com/1200x400 "Homepage Banner")
+![Homepage Banner](slides/pic3.jpg "Homepage Banner")
 
 ---
 
